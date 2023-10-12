@@ -1,0 +1,22 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.all{
+    background-color: rgb(123, 168, 101);
+}
+
+#title{
+    font-size: 40px;
+}
+
+.text-center
+{
+color: rgb(71, 62, 71);   
+position:fixed;
+position:inline;
+top:0px;
+text-decoration: none;
+} 
+
+.coming-soon
